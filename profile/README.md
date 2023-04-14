@@ -9,7 +9,7 @@ Our beloved mascot is the [Numbat](https://en.wikipedia.org/wiki/Numbat).
 There are 5 key projects in our Numerical Elixir effort. We will briefly summarize them below and draw comparisons
 to other ecosystems to help developers familiarize with our work.
 
-<h3><img src="https://github.com/elixir-nx/nx/raw/main/nx/nx.png" alt="Nx" width="120"></h3>
+<h3><img src="https://github.com/elixir-nx/nx/raw/main/nx/nx.png" alt="Nx" width="120" style="margin-top: 10px"></h3>
 
 <a href="https://github.com/elixir-nx/nx">Nx</a> stands for Numerical Elixir and it is the project that started it all.
 Nx is a multi-dimensional tensors library with multi-staged compilation to the CPU/GPU. It plays a similar role to Numpy
@@ -41,11 +41,13 @@ Neural Networks with [Hugging Face Models integration](https://huggingface.co/mo
 
 For integration with other platforms, check out [AxonONNX](https://github.com/elixir-nx/axon_onnx).
 
-<h3><img src="https://github.com/elixir-nx/scholar/raw/main/images/scholar.png" alt="Scholar" width="220" style="margin: 10px 0 -25px -15px"></h3>
+<h3><img src="https://github.com/elixir-nx/scholar/raw/main/images/scholar.png" alt="Scholar" width="220" style="margin: 5px 0 -25px -15px"></h3>
 
 <a href="https://github.com/elixir-nx/scholar">Scholar</a> is the most recent addition to the Nx ecosystem and it focus on
 traditional machine learning techniques, such as classification, regression, clustering, dimensionality reduction, metrics,
 and preprocessing. Because Scholar is fully built on top of Nx, it fully GPU-ready, vectorizable, distributable, and more.
+
+<br />
 
 ## Why Elixir?
 
