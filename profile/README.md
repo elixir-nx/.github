@@ -102,17 +102,21 @@ Here is a non-exhaustive list of resources put together by Numerical Elixir cont
 
 ### Videos
 
-  * [(2023) Data wrangling with Livebook and Explorer](https://news.livebook.dev/data-wrangling-in-elixir-with-explorer-the-power-of-rust-the-elegance-of-r---launch-week-1---day-5-1xqwCI)
+  * [(2023) Data wrangling with Livebook and Explorer](https://news.livebook.dev/data-wrangling-in-elixir-with-explorer-the-power-of-rust-the-elegance-of-r---launch-week-1---day-5-1xqwCI) (Livebook, Explorer)
 
-  * [(2023) Build and deploy a Machine Learning powered chat app to Hugging Face in 15 mninutes](https://news.livebook.dev/build-and-deploy-a-whisper-chat-app-to-hugging-face-in-15-minutes---launch-week-1---day-4-wYM0w)
+  * [(2023) Build and deploy a Machine Learning powered chat app to Hugging Face in 15 mninutes](https://news.livebook.dev/build-and-deploy-a-whisper-chat-app-to-hugging-face-in-15-minutes---launch-week-1---day-4-wYM0w) (Nx, Livebook, Bumblebee)
 
-  * [(2023) Distributed² Machine Learning notebooks with Elixir and Livebook](https://news.livebook.dev/distributed2-machine-learning-notebooks-with-elixir-and-livebook---launch-week-1---day-2-1aIlaw)
+  * [(2023) Distributed² Machine Learning notebooks with Elixir and Livebook](https://news.livebook.dev/distributed2-machine-learning-notebooks-with-elixir-and-livebook---launch-week-1---day-2-1aIlaw) (Nx, Livebook, Bumblebee)
 
-  * [(2022) The announcement of Bumblebee, which provides pre-trained machine learning models such BERT, StableDiffusion, and others](https://news.livebook.dev/announcing-bumblebee-gpt2-stable-diffusion-and-more-in-elixir-3Op73O)
+  * [(2022) The Future AI Stack by Chris Grainer](https://www.youtube.com/watch?v=Y2Nr4dNu6hI) (Explorer, Axon)
+
+  * [(2022) The announcement of Bumblebee, which provides pre-trained machine learning models such BERT, StableDiffusion, and others](https://news.livebook.dev/announcing-bumblebee-gpt2-stable-diffusion-and-more-in-elixir-3Op73O) (Livebook, Bumblebee)
   
-  * [(2022) Meta-programmable functional notebooks with Livebook @ Live Programming Splash 2022 by José Valim](https://www.youtube.com/watch?v=EhSNXWkji6o)
+  * [(2022) Meta-programmable functional notebooks with Livebook @ Live Programming Splash 2022 by José Valim](https://www.youtube.com/watch?v=EhSNXWkji6o) (Livebook)
+  
+  * [(2022) Axon: functional programming for deep learning](https://www.youtube.com/watch?v=NWXSiZ-vi-o) (Axon)
 
-  * [(2021) Build a neural network from scratch with Nx @ Lambda Days by José Valim ](https://www.youtube.com/watch?v=fPKMmJpAGWc)
+  * [(2021) Build a neural network from scratch with Nx @ Lambda Days by José Valim ](https://www.youtube.com/watch?v=fPKMmJpAGWc) (Nx)
   
 ### Articles
 
