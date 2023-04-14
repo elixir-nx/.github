@@ -45,7 +45,7 @@ For integration with other platforms, check out [AxonONNX](https://github.com/el
 
 <a href="https://github.com/elixir-nx/scholar">Scholar</a> is the most recent addition to the Nx ecosystem and it focus on
 traditional machine learning techniques, such as classification, regression, clustering, dimensionality reduction, metrics,
-and preprocessing. Because Scholar is fully built on top of Nx, it fully GPU-ready, vectorizable, distributable, and more.
+and preprocessing. Because Scholar is fully built on top of Nx, it is fully GPU-ready, vectorizable, distributable, and more.
 
 <br />
 
