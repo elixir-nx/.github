@@ -39,9 +39,75 @@ Also check out the <a href="https://github.com/elixir-nx/bumblebee">Bumblebee</a
 Neural Networks with [Hugging Face Models integration](https://huggingface.co/models). Together with Livebook, [it only takes
 3 clicks to get your first Neural Network running in Elixir](https://news.livebook.dev/announcing-bumblebee-gpt2-stable-diffusion-and-more-in-elixir-3Op73O).
 
+For integration with other platforms, check out [AxonONNX](https://github.com/elixir-nx/axon_onnx).
+
 <h3><img src="https://github.com/elixir-nx/scholar/raw/main/images/scholar.png" alt="Scholar" width="220" style="margin: 10px 0 -25px -15px"></h3>
 
 <a href="https://github.com/elixir-nx/scholar">Scholar</a> is the most recent addition to the Nx ecosystem and it focus on
 traditional machine learning techniques, such as classification, regression, clustering, dimensionality reduction, metrics,
 and preprocessing. Because Scholar is fully built on top of Nx, it fully GPU-ready, vectorizable, distributable, and more.
 
+## Why Elixir?
+
+The goal of the Nx project is to marry the power of numerical computing with the Erlang VM capabilities for building concurrent,
+scalable, and fault-tolerant systems.
+
+Elixir is a functional programming language that runs on the Erlang VM. And, at this point, you might ask: is functional programming
+a good fit for numerical computing? One of the main concerns is that immutability can lead to high memory usage when working with
+large blobs of memory. And that's true!
+
+However, it turns out that the most efficient way of executing numerical computations is by first building a graph of all computations,
+then compiling that graph to run on your CPUs/GPUs just-in-time. At this point, your numerical computing code becomes a function:
+
+    input -> [compiled numerical computing graph] -> output
+
+The `input` is an Elixir data-structure. Inside the function, the algorithm is highly optimized and free to mutate the data in any way
+it seems fit. Then we get an output that once again must obey Elixir semantics.
+
+To build those graphs, immutability becomes an indispensable tool both in terms of implementation and reasoning. As an example, the JAX
+library for Python, which has been one of the inspirations for Nx, also promotes functional and immutable principles:
+
+> JAX is intended to be used with a functional style of programming
+>
+> — JAX Docs
+
+> Unlike NumPy arrays, JAX arrays are always immutable
+>
+> — JAX Docs
+
+At the end of the day, Elixir provides the functional foundation and a powerful macro system that allows us to compile a subset of Elixir to
+the CPU/GPU.
+
+With the addition of `Nx.Serving`, we started to marry the benefits of the Erlang VM with numerical computing. With `Nx.Serving`, you can
+batch numerical computing requests, as well as load balance requests over a cluster of machines
+([see the announcement](https://news.livebook.dev/distributed2-machine-learning-notebooks-with-elixir-and-livebook---launch-week-1---day-2-1aIlaw)).
+This makes it easy to embed and scale Nx code within your existing Elixir systems, both horizontally and vertically, and without a need
+for third-party services. Our goal is to apply those principles to our whole Numerical Elixir stack.
+
+We also expect numerical computing to complement the Elixir ecosystem in different ways, such as:
+
+  * running Machine Learning models in real-time within your [Phoenix web application](https://phoenixframework.org/)
+
+  * deploying models, signal processing, and data modelling inside embedded systems [via Nerves](https://www.nerves-project.org/)
+
+  * incorporating data analysis and classification algorithms inside concurrent data pipelines powered [by Broadway](https://www.elixir-broadway.org/)
+
+  * adding audio and video processing and AI capabilities to media systems [through Membrane](https://membrane.stream/)
+
+## Resources
+
+### Videos
+
+  * [A talk by José Valim at Lambda Days 2021 where he builds a neural network from scratch with Nx](https://www.youtube.com/watch?v=fPKMmJpAGWc)
+
+  * [The announcement of Bumblebee, which provides pre-trained machine learning models such BERT, StableDiffusion, and others](https://news.livebook.dev/announcing-bumblebee-gpt2-stable-diffusion-and-more-in-elixir-3Op73O)
+  
+  * [Data wrangling with Livebook and Explorer](https://news.livebook.dev/data-wrangling-in-elixir-with-explorer-the-power-of-rust-the-elegance-of-r---launch-week-1---day-5-1xqwCI)
+
+  * [Build and deploy a Machine Learning powered chat app to Hugging Face in 15 mninutes](https://news.livebook.dev/build-and-deploy-a-whisper-chat-app-to-hugging-face-in-15-minutes---launch-week-1---day-4-wYM0w)
+
+  * [Distributed² Machine Learning notebooks with Elixir and Livebook](https://news.livebook.dev/distributed2-machine-learning-notebooks-with-elixir-and-livebook---launch-week-1---day-2-1aIlaw)
+
+### Articles
+
+  * [An article by Philip Brown showing an end-to-end example of running a Machine Learning model with Elixir in production](https://fly.io/phoenix-files/recognize-digits-using-ml-in-elixir/) (text)
