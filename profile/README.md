@@ -98,18 +98,28 @@ We also expect numerical computing to complement the Elixir ecosystem in differe
 
 ## Resources
 
+Here is a non-exhaustive list of resources put together by Numerical Elixir contributors.
+
 ### Videos
 
-  * [A talk by José Valim at Lambda Days 2021 where he builds a neural network from scratch with Nx](https://www.youtube.com/watch?v=fPKMmJpAGWc)
+  * [(2023) Data wrangling with Livebook and Explorer](https://news.livebook.dev/data-wrangling-in-elixir-with-explorer-the-power-of-rust-the-elegance-of-r---launch-week-1---day-5-1xqwCI)
 
-  * [The announcement of Bumblebee, which provides pre-trained machine learning models such BERT, StableDiffusion, and others](https://news.livebook.dev/announcing-bumblebee-gpt2-stable-diffusion-and-more-in-elixir-3Op73O)
+  * [(2023) Build and deploy a Machine Learning powered chat app to Hugging Face in 15 mninutes](https://news.livebook.dev/build-and-deploy-a-whisper-chat-app-to-hugging-face-in-15-minutes---launch-week-1---day-4-wYM0w)
+
+  * [(2023) Distributed² Machine Learning notebooks with Elixir and Livebook](https://news.livebook.dev/distributed2-machine-learning-notebooks-with-elixir-and-livebook---launch-week-1---day-2-1aIlaw)
+
+  * [(2022) The announcement of Bumblebee, which provides pre-trained machine learning models such BERT, StableDiffusion, and others](https://news.livebook.dev/announcing-bumblebee-gpt2-stable-diffusion-and-more-in-elixir-3Op73O)
   
-  * [Data wrangling with Livebook and Explorer](https://news.livebook.dev/data-wrangling-in-elixir-with-explorer-the-power-of-rust-the-elegance-of-r---launch-week-1---day-5-1xqwCI)
+  * [(2022) Meta-programmable functional notebooks with Livebook @ Live Programming Splash 2022 by José Valim](https://www.youtube.com/watch?v=EhSNXWkji6o)
 
-  * [Build and deploy a Machine Learning powered chat app to Hugging Face in 15 mninutes](https://news.livebook.dev/build-and-deploy-a-whisper-chat-app-to-hugging-face-in-15-minutes---launch-week-1---day-4-wYM0w)
-
-  * [Distributed² Machine Learning notebooks with Elixir and Livebook](https://news.livebook.dev/distributed2-machine-learning-notebooks-with-elixir-and-livebook---launch-week-1---day-2-1aIlaw)
-
+  * [(2021) Build a neural network from scratch with Nx @ Lambda Days by José Valim ](https://www.youtube.com/watch?v=fPKMmJpAGWc)
+  
 ### Articles
 
-  * [An article by Philip Brown showing an end-to-end example of running a Machine Learning model with Elixir in production](https://fly.io/phoenix-files/recognize-digits-using-ml-in-elixir/) (text)
+  * [(2023) Audio Speech Recognition in Elixir with Whisper Bumblebee by Sean Moriarity](https://dockyard.com/blog/2023/03/07/audio-speech-recognition-in-elixir-with-whisper-bumblebee)
+  
+  * [(2002) Catching fraud with Elixir and Axon by Sean Moriarity](https://dockyard.com/blog/2022/04/07/catching-fraud-with-elixir-and-axon)
+
+  * [(2022) An end-to-end example of running a Machine Learning model with Elixir in production by Philip Brown](https://fly.io/phoenix-files/recognize-digits-using-ml-in-elixir/)
+  
+  * [(2022) Nx for absolute beginners by Sean Moriarity](https://dockyard.com/blog/2022/03/15/nx-for-absolute-beginners)  
