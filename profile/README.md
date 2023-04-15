@@ -25,7 +25,7 @@ and it features [a growing ecosystem of integrations](https://livebook.dev/integ
 
 <h3><img src="https://github.com/elixir-nx/explorer/raw/main/explorer.png" alt="Explorer" width="200" style="margin: 10px 0 -15px -15px"></h3>
 
-<a href="https://github.com/elixir-nx/axon">Explorer</a> brings series (one-dimensional) and dataframes (two-dimensional)
+<a href="https://github.com/elixir-nx/explorer">Explorer</a> brings series (one-dimensional) and dataframes (two-dimensional)
 for fast data exploration to Elixir. It brings the power of Rust [via the Polars library](https://github.com/pola-rs/polars)
 and it is inspired by [dplyr (from the R community)](https://dplyr.tidyverse.org/).
 
