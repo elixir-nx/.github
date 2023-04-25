@@ -122,7 +122,7 @@ Here is a non-exhaustive list of resources put together by Numerical Elixir cont
 
   * [(2023) Audio Speech Recognition in Elixir with Whisper Bumblebee by Sean Moriarity](https://dockyard.com/blog/2023/03/07/audio-speech-recognition-in-elixir-with-whisper-bumblebee)
   
-  * [(2002) Catching fraud with Elixir and Axon by Sean Moriarity](https://dockyard.com/blog/2022/04/07/catching-fraud-with-elixir-and-axon)
+  * [(2022) Catching fraud with Elixir and Axon by Sean Moriarity](https://dockyard.com/blog/2022/04/07/catching-fraud-with-elixir-and-axon)
 
   * [(2022) An end-to-end example of running a Machine Learning model with Elixir in production by Philip Brown](https://fly.io/phoenix-files/recognize-digits-using-ml-in-elixir/)
   
