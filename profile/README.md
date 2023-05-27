@@ -21,7 +21,8 @@ Serving implementation that can run concurrently, distributed over multiple node
 <a href="https://livebook.dev/">Livebook</a> brings the next generation of open-source local-first notebooks to Elixir.
 With Livebook you can write interactive and collaborative notebooks, which are truly reproducible, all the way to package
 management. If you are not yet familiar with Elixir, Livebook and its smart cells are one of the best ways to get started,
-and it features [a growing ecosystem of integrations](https://livebook.dev/integrations).
+and it features [a growing ecosystem of integrations](https://livebook.dev/integrations) for databases, messaging, visualization,
+and more.
 
 <h3><a href="https://github.com/elixir-nx/explorer"><img src="https://github.com/elixir-nx/explorer/raw/main/explorer.png" alt="Explorer" width="200" style="margin: 10px 0 -15px -15px"></a></h3>
 
@@ -104,7 +105,7 @@ Here is a non-exhaustive list of resources put together by Numerical Elixir cont
 
   * [(2023) Data wrangling with Livebook and Explorer](https://news.livebook.dev/data-wrangling-in-elixir-with-explorer-the-power-of-rust-the-elegance-of-r---launch-week-1---day-5-1xqwCI) (Livebook, Explorer)
 
-  * [(2023) Build and deploy a Machine Learning powered chat app to Hugging Face in 15 mninutes](https://news.livebook.dev/build-and-deploy-a-whisper-chat-app-to-hugging-face-in-15-minutes---launch-week-1---day-4-wYM0w) (Nx, Livebook, Bumblebee)
+  * [(2023) Build and deploy a Machine Learning powered chat app to Hugging Face in 15 minutes](https://news.livebook.dev/build-and-deploy-a-whisper-chat-app-to-hugging-face-in-15-minutes---launch-week-1---day-4-wYM0w) (Nx, Livebook, Bumblebee)
 
   * [(2023) Distributed² Machine Learning notebooks with Elixir and Livebook](https://news.livebook.dev/distributed2-machine-learning-notebooks-with-elixir-and-livebook---launch-week-1---day-2-1aIlaw) (Nx, Livebook, Bumblebee)
 
