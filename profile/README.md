@@ -40,7 +40,7 @@ Also check out the <a href="https://github.com/elixir-nx/bumblebee">Bumblebee</a
 Neural Networks with [Hugging Face Models integration](https://huggingface.co/models). Together with Livebook, [it only takes
 3 clicks to get your first Neural Network running in Elixir](https://news.livebook.dev/announcing-bumblebee-gpt2-stable-diffusion-and-more-in-elixir-3Op73O).
 
-For integration with other platforms, check out [AxonONNX](https://github.com/elixir-nx/axon_onnx).
+For integration with other platforms, see [Ortex](https://github.com/elixir-nx/ortex) which provides full-blown compatibility with the ONNX format via ONNX Runtime bindings. Alternatively, see [AxonONNX](https://github.com/elixir-nx/axon_onnx) to convert ONNX models to Axon models whenever possible to achieve better integration with Nx.
 
 <h3><a href="https://github.com/elixir-nx/scholar"><img src="https://github.com/elixir-nx/scholar/raw/main/images/scholar.png" alt="Scholar" width="220" style="margin: 5px 0 -25px -15px"></a></h3>
 
