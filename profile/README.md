@@ -59,7 +59,8 @@ a good fit for numerical computing? One of the main concerns is that immutabilit
 large blobs of memory. And that's true!
 
 However, it turns out that the most efficient way of executing numerical computations is by first building a graph of all computations,
-then compiling that graph to run on your CPUs/GPUs just-in-time. At this point, your numerical computing code becomes a function:
+then compiling that graph to run on your CPUs/GPUs. This reduces the back-and-forth between the host language (Elixir, Python, etc) and
+the numerical core and it allows your code to be further optimized. At this point, your numerical computing code becomes a function:
 
     input -> [compiled numerical computing graph] -> output
 
