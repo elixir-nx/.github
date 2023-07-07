@@ -24,10 +24,10 @@ management. If you are not yet familiar with Elixir, Livebook and its smart cell
 and it features [a growing ecosystem of integrations](https://livebook.dev/integrations) for databases, messaging, visualization,
 and more.
 
-<h3><a href="https://github.com/elixir-nx/explorer"><img src="https://github.com/elixir-nx/explorer/raw/main/explorer.png" alt="Explorer" width="200" style="margin: 10px 0 -15px -15px"></a></h3>
+<h3><a href="https://github.com/elixir-explorer/explorer"><img src="https://github.com/elixir-explorer/explorer/raw/main/explorer.png" alt="Explorer" width="200" style="margin: 10px 0 -15px -15px"></a></h3>
 
-<a href="https://github.com/elixir-nx/explorer">Explorer</a> brings series (one-dimensional) and dataframes (two-dimensional)
-for fast data exploration to Elixir. It brings the power of Rust [via the Polars library](https://github.com/pola-rs/polars)
+<a href="https://github.com/elixir-explorer/explorer">Explorer</a> brings series (one-dimensional) and dataframes (two-dimensional)
+for fast and elegant data exploration to Elixir. It brings the power of Rust [via the Polars library](https://github.com/pola-rs/polars)
 and it is inspired by [dplyr (from the R community)](https://dplyr.tidyverse.org/).
 
 <h3><a href="https://github.com/elixir-nx/axon"><img src="https://github.com/elixir-nx/axon/raw/main/axon.png" alt="Axon" width="200" style="margin: 10px 0 -15px -15px"></a></h3>
