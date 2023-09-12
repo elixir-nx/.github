@@ -101,6 +101,10 @@ We also expect numerical computing to complement the Elixir ecosystem in differe
 
 Here is a non-exhaustive list of resources put together by Numerical Elixir contributors.
 
+### Books
+
+  * [(2023) Machine Learning in Elixir -  Learning to Learn with Nx and Axon (by Sean Moriarity)](https://pragprog.com/titles/smelixir/machine-learning-in-elixir/)
+
 ### Videos
 
   * [(2023) Data wrangling with Livebook and Explorer](https://news.livebook.dev/data-wrangling-in-elixir-with-explorer-the-power-of-rust-the-elegance-of-r---launch-week-1---day-5-1xqwCI) (Livebook, Explorer)
