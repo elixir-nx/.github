@@ -107,6 +107,14 @@ Here is a non-exhaustive list of resources put together by Numerical Elixir cont
 
 ### Videos
 
+  * [(2023) Nx-powered decision trees](https://www.youtube.com/watch?v=rbmviKT6HkU) (Nx, EXGBoost)
+
+  * [(2023) Building AI apps with Elixir](https://www.youtube.com/watch?v=TfZI5-oQSqI)
+
+  * [(2023) MLOps in Elixir: Simplifying traditional MLOps with Elixir](https://www.youtube.com/watch?v=6aVnwj8WQq4) (Nx, Bumbleblee)
+
+  * [(2023) Fine-tuning language models with Axon](https://www.youtube.com/watch?v=-iZIZHgHa5M) (Axon)
+
   * [(2023) Data wrangling with Livebook and Explorer](https://news.livebook.dev/data-wrangling-in-elixir-with-explorer-the-power-of-rust-the-elegance-of-r---launch-week-1---day-5-1xqwCI) (Livebook, Explorer)
 
   * [(2023) Build and deploy a Machine Learning powered chat app to Hugging Face in 15 minutes](https://news.livebook.dev/build-and-deploy-a-whisper-chat-app-to-hugging-face-in-15-minutes---launch-week-1---day-4-wYM0w) (Nx, Livebook, Bumblebee)
@@ -124,6 +132,8 @@ Here is a non-exhaustive list of resources put together by Numerical Elixir cont
   * [(2021) Build a neural network from scratch with Nx @ Lambda Days by José Valim ](https://www.youtube.com/watch?v=fPKMmJpAGWc) (Nx)
   
 ### Articles
+
+  * [(2023) Elixir and Machine Learning: Q3 2023 Roundup](https://dashbit.co/blog/elixir-and-machine-learning-q3-roundup)
 
   * [(2023) Audio Speech Recognition in Elixir with Whisper Bumblebee by Sean Moriarity](https://dockyard.com/blog/2023/03/07/audio-speech-recognition-in-elixir-with-whisper-bumblebee)
   
