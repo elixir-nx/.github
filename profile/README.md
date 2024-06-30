@@ -108,6 +108,8 @@ Here is a non-exhaustive list of resources put together by Numerical Elixir cont
 ### Videos
 
   * [(2024) Keynote: Ship it! A Roadmap for putting Nx into Production by Chris Grainger](https://www.youtube.com/watch?v=5FlZHkc4Mq4) (Nx, Explorer, Scholar, Bumblebee, Livebook)
+  
+  * [(2024) Adding Nx Functionality to Your LiveView App by Paulo Valente](https://www.youtube.com/watch?v=9_MtDqhlTOQ)
 
   * [(2023) A year in production with Machine Learning on the BEAM by Chris Grainger](https://www.youtube.com/watch?v=HP86Svk4hzI) (Explorer, Scholar, Bumblebee, Livebook)
 
@@ -136,6 +138,9 @@ Here is a non-exhaustive list of resources put together by Numerical Elixir cont
   * [(2021) Build a neural network from scratch with Nx @ Lambda Days by José Valim ](https://www.youtube.com/watch?v=fPKMmJpAGWc) (Nx)
   
 ### Articles
+
+  * [(2024) Elixir Machine Learning: Training Models in Axon is Getting Better by Sean Moriarity](https://dockyard.com/blog/2024/06/13/elixir-machine-learning-training-models-in-axon-is-getting-better)
+
   * [(2023) Three Years of Nx: Growing the Elixir Machine Learning Ecosystem by Sean Moriarity](https://dockyard.com/blog/2023/11/08/three-years-of-nx-growing-the-machine-learning-ecosystem)
 
   * [(2023) Elixir and Machine Learning: Q3 2023 Roundup](https://dashbit.co/blog/elixir-and-machine-learning-q3-roundup)
