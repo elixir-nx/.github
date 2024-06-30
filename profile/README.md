@@ -107,15 +107,19 @@ Here is a non-exhaustive list of resources put together by Numerical Elixir cont
 
 ### Videos
 
-  * [(2023) A year in production with Machine Learning on the BEAM](https://www.youtube.com/watch?v=HP86Svk4hzI) (Explorer, Scholar, Bumblebee, Livebook)
+  * [(2024) Keynote: Ship it! A Roadmap for putting Nx into Production by Chris Grainger](https://www.youtube.com/watch?v=5FlZHkc4Mq4) (Nx, Explorer, Scholar, Bumblebee, Livebook)
+  
+  * [(2024) Adding Nx Functionality to Your LiveView App by Paulo Valente](https://www.youtube.com/watch?v=9_MtDqhlTOQ)
 
-  * [(2023) Nx-powered decision trees](https://www.youtube.com/watch?v=rbmviKT6HkU) (Nx, EXGBoost)
+  * [(2023) A year in production with Machine Learning on the BEAM by Chris Grainger](https://www.youtube.com/watch?v=HP86Svk4hzI) (Explorer, Scholar, Bumblebee, Livebook)
 
-  * [(2023) Building AI apps with Elixir](https://www.youtube.com/watch?v=TfZI5-oQSqI)
+  * [(2023) Nx-powered decision trees by Andrés Alejos](https://www.youtube.com/watch?v=rbmviKT6HkU) (Nx, EXGBoost)
 
-  * [(2023) MLOps in Elixir: Simplifying traditional MLOps with Elixir](https://www.youtube.com/watch?v=6aVnwj8WQq4) (Nx, Bumbleblee)
+  * [(2023) Building AI apps with Elixir by Charlie Holtz](https://www.youtube.com/watch?v=TfZI5-oQSqI)
 
-  * [(2023) Fine-tuning language models with Axon](https://www.youtube.com/watch?v=-iZIZHgHa5M) (Axon)
+  * [(2023) MLOps in Elixir: Simplifying traditional MLOps with Elixir by Sean Moriarity](https://www.youtube.com/watch?v=6aVnwj8WQq4) (Nx, Bumbleblee)
+
+  * [(2023) Fine-tuning language models with Axon by Toran Billups](https://www.youtube.com/watch?v=-iZIZHgHa5M) (Axon)
 
   * [(2023) Data wrangling with Livebook and Explorer](https://news.livebook.dev/data-wrangling-in-elixir-with-explorer-the-power-of-rust-the-elegance-of-r---launch-week-1---day-5-1xqwCI) (Livebook, Explorer)
 
@@ -123,17 +127,21 @@ Here is a non-exhaustive list of resources put together by Numerical Elixir cont
 
   * [(2023) Distributed² Machine Learning notebooks with Elixir and Livebook](https://news.livebook.dev/distributed2-machine-learning-notebooks-with-elixir-and-livebook---launch-week-1---day-2-1aIlaw) (Nx, Livebook, Bumblebee)
 
-  * [(2022) The Future AI Stack by Chris Grainer](https://www.youtube.com/watch?v=Y2Nr4dNu6hI) (Explorer, Axon)
+  * [(2022) The Future AI Stack by Chris Grainger](https://www.youtube.com/watch?v=Y2Nr4dNu6hI) (Explorer, Axon)
 
   * [(2022) Announcing Bumblebee: pre-trained machine learning models for GPT2, StableDiffusion, and more](https://news.livebook.dev/announcing-bumblebee-gpt2-stable-diffusion-and-more-in-elixir-3Op73O) (Livebook, Bumblebee)
   
   * [(2022) Meta-programmable functional notebooks with Livebook @ Live Programming Splash 2022 by José Valim](https://www.youtube.com/watch?v=EhSNXWkji6o) (Livebook)
   
-  * [(2022) Axon: functional programming for deep learning](https://www.youtube.com/watch?v=NWXSiZ-vi-o) (Axon)
+  * [(2022) Axon: functional programming for deep learning by Sean Moriarity](https://www.youtube.com/watch?v=NWXSiZ-vi-o) (Axon)
 
   * [(2021) Build a neural network from scratch with Nx @ Lambda Days by José Valim ](https://www.youtube.com/watch?v=fPKMmJpAGWc) (Nx)
   
 ### Articles
+
+  * [(2024) Elixir Machine Learning: Training Models in Axon is Getting Better by Sean Moriarity](https://dockyard.com/blog/2024/06/13/elixir-machine-learning-training-models-in-axon-is-getting-better)
+
+  * [(2023) Three Years of Nx: Growing the Elixir Machine Learning Ecosystem by Sean Moriarity](https://dockyard.com/blog/2023/11/08/three-years-of-nx-growing-the-machine-learning-ecosystem)
 
   * [(2023) Elixir and Machine Learning: Q3 2023 Roundup](https://dashbit.co/blog/elixir-and-machine-learning-q3-roundup)
 
