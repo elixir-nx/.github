@@ -1,7 +1,7 @@
 # Welcome to Numerical Elixir!
 
 Numerical Elixir is an effort started in 2021 to bring the power of numerical computing to Elixir (and vice-versa).
-This organization hosts several projects that empowers Elixir in the areas of data, machine learning, AI, and more.
+This organization hosts several projects that empower Elixir in the areas of data, machine learning, AI, and more.
 Our beloved mascot is the [Numbat](https://en.wikipedia.org/wiki/Numbat).
 
 ## Key projects
