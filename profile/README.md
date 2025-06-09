@@ -107,8 +107,10 @@ Here is a non-exhaustive list of resources put together by Numerical Elixir cont
 
 ### Videos
 
+  * [(2024) Keynote: Getting Nx to the edge with LiveView native and Nerves](https://www.youtube.com/watch?v=hBKj9b-aD2E) (Nx)
+
   * [(2024) Keynote: Ship it! A Roadmap for putting Nx into Production by Chris Grainger](https://www.youtube.com/watch?v=5FlZHkc4Mq4) (Nx, Explorer, Scholar, Bumblebee, Livebook)
-  
+
   * [(2024) Adding Nx Functionality to Your LiveView App by Paulo Valente](https://www.youtube.com/watch?v=9_MtDqhlTOQ)
 
   * [(2023) A year in production with Machine Learning on the BEAM by Chris Grainger](https://www.youtube.com/watch?v=HP86Svk4hzI) (Explorer, Scholar, Bumblebee, Livebook)
@@ -130,13 +132,13 @@ Here is a non-exhaustive list of resources put together by Numerical Elixir cont
   * [(2022) The Future AI Stack by Chris Grainger](https://www.youtube.com/watch?v=Y2Nr4dNu6hI) (Explorer, Axon)
 
   * [(2022) Announcing Bumblebee: pre-trained machine learning models for GPT2, StableDiffusion, and more](https://news.livebook.dev/announcing-bumblebee-gpt2-stable-diffusion-and-more-in-elixir-3Op73O) (Livebook, Bumblebee)
-  
+
   * [(2022) Meta-programmable functional notebooks with Livebook @ Live Programming Splash 2022 by José Valim](https://www.youtube.com/watch?v=EhSNXWkji6o) (Livebook)
-  
+
   * [(2022) Axon: functional programming for deep learning by Sean Moriarity](https://www.youtube.com/watch?v=NWXSiZ-vi-o) (Axon)
 
   * [(2021) Build a neural network from scratch with Nx @ Lambda Days by José Valim ](https://www.youtube.com/watch?v=fPKMmJpAGWc) (Nx)
-  
+
 ### Articles
 
   * [(2024) Elixir Machine Learning: Training Models in Axon is Getting Better by Sean Moriarity](https://dockyard.com/blog/2024/06/13/elixir-machine-learning-training-models-in-axon-is-getting-better)
@@ -146,9 +148,9 @@ Here is a non-exhaustive list of resources put together by Numerical Elixir cont
   * [(2023) Elixir and Machine Learning: Q3 2023 Roundup](https://dashbit.co/blog/elixir-and-machine-learning-q3-roundup)
 
   * [(2023) Audio Speech Recognition in Elixir with Whisper Bumblebee by Sean Moriarity](https://dockyard.com/blog/2023/03/07/audio-speech-recognition-in-elixir-with-whisper-bumblebee)
-  
+
   * [(2022) Catching fraud with Elixir and Axon by Sean Moriarity](https://dockyard.com/blog/2022/04/07/catching-fraud-with-elixir-and-axon)
 
   * [(2022) An end-to-end example of running a Machine Learning model with Elixir in production by Philip Brown](https://fly.io/phoenix-files/recognize-digits-using-ml-in-elixir/)
-  
-  * [(2022) Nx for absolute beginners by Sean Moriarity](https://dockyard.com/blog/2022/03/15/nx-for-absolute-beginners)  
+
+  * [(2022) Nx for absolute beginners by Sean Moriarity](https://dockyard.com/blog/2022/03/15/nx-for-absolute-beginners)
