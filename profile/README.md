@@ -107,7 +107,7 @@ Here is a non-exhaustive list of resources put together by Numerical Elixir cont
 
 ### Videos
 
-  * [(2024) Keynote: Getting Nx to the edge with LiveView native and Nerves](https://www.youtube.com/watch?v=hBKj9b-aD2E) (Nx)
+  * [(2024) Keynote: Getting Nx to the edge with LiveView native and Nerves by Paulo Valente](https://www.youtube.com/watch?v=hBKj9b-aD2E) (Nx)
 
   * [(2024) Keynote: Ship it! A Roadmap for putting Nx into Production by Chris Grainger](https://www.youtube.com/watch?v=5FlZHkc4Mq4) (Nx, Explorer, Scholar, Bumblebee, Livebook)
 
