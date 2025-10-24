@@ -24,12 +24,6 @@ management. If you are not yet familiar with Elixir, Livebook and its smart cell
 and it features [a growing ecosystem of integrations](https://livebook.dev/integrations) for databases, messaging, visualization,
 and more.
 
-<h3><a href="https://github.com/elixir-explorer/explorer"><img src="https://github.com/elixir-explorer/explorer/raw/main/explorer.png" alt="Explorer" width="200" style="margin: 10px 0 -15px -15px"></a></h3>
-
-<a href="https://github.com/elixir-explorer/explorer">Explorer</a> brings series (one-dimensional) and dataframes (two-dimensional)
-for fast and elegant data exploration to Elixir. It brings the power of Rust [via the Polars library](https://github.com/pola-rs/polars)
-and it is inspired by [dplyr (from the R community)](https://dplyr.tidyverse.org/).
-
 <h3><a href="https://github.com/elixir-nx/axon"><img src="https://github.com/elixir-nx/axon/raw/main/axon.png" alt="Axon" width="200" style="margin: 10px 0 -15px -15px"></a></h3>
 
 <a href="https://github.com/elixir-nx/axon">Axon</a> is a Nx-powered Neural Network library. It splits out into three components:
@@ -109,7 +103,7 @@ Here is a non-exhaustive list of resources put together by Numerical Elixir cont
 
   * [(2024) Keynote: Getting Nx to the edge with LiveView native and Nerves by Paulo Valente](https://www.youtube.com/watch?v=hBKj9b-aD2E) (Nx)
 
-  * [(2024) Keynote: Ship it! A Roadmap for putting Nx into Production by Chris Grainger](https://www.youtube.com/watch?v=5FlZHkc4Mq4) (Nx, Explorer, Scholar, Bumblebee, Livebook)
+  * [(2024) Keynote: Ship it! A Roadmap for putting Nx into Production by Chris Grainger](https://www.youtube.com/watch?v=5FlZHkc4Mq4) (Nx, Scholar, Bumblebee, Livebook)
 
   * [(2024) Adding Nx Functionality to Your LiveView App by Paulo Valente](https://www.youtube.com/watch?v=9_MtDqhlTOQ)
 
@@ -122,8 +116,6 @@ Here is a non-exhaustive list of resources put together by Numerical Elixir cont
   * [(2023) MLOps in Elixir: Simplifying traditional MLOps with Elixir by Sean Moriarity](https://www.youtube.com/watch?v=6aVnwj8WQq4) (Nx, Bumbleblee)
 
   * [(2023) Fine-tuning language models with Axon by Toran Billups](https://www.youtube.com/watch?v=-iZIZHgHa5M) (Axon)
-
-  * [(2023) Data wrangling with Livebook and Explorer](https://news.livebook.dev/data-wrangling-in-elixir-with-explorer-the-power-of-rust-the-elegance-of-r---launch-week-1---day-5-1xqwCI) (Livebook, Explorer)
 
   * [(2023) Build and deploy a Machine Learning powered chat app to Hugging Face in 15 minutes](https://news.livebook.dev/build-and-deploy-a-whisper-chat-app-to-hugging-face-in-15-minutes---launch-week-1---day-4-wYM0w) (Nx, Livebook, Bumblebee)
 
