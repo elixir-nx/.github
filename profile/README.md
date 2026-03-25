@@ -16,7 +16,7 @@ Nx is a multi-dimensional tensors library with multi-staged compilation to the C
 in the Elixir community. It is inspired by Google's [`JAX`](https://github.com/google/jax) and ships with its own Tensor
 Serving implementation that can run concurrently, distributed over multiple nodes, as well as partitioned across several GPUs.
 
-<h3><a href="https://livebook.dev/"><img src="https://github.com/livebook-dev/livebook/raw/main/static/images/logo-with-text.png" alt="Livebook" width="250" style="margin: 10px 0 -15px -15px"></a></h3>
+<h3><a href="https://livebook.dev/"><img src="https://github.com/livebook-dev/livebook/raw/main/assets/public/images/logo-with-text.png" alt="Livebook" width="250" style="margin: 10px 0 -15px -15px"></a></h3>
 
 <a href="https://livebook.dev/">Livebook</a> brings the next generation of open-source local-first notebooks to Elixir.
 With Livebook you can write interactive and collaborative notebooks, which are truly reproducible, all the way to package
